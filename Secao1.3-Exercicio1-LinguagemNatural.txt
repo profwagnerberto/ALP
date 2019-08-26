@@ -1,0 +1,6 @@
+Início
+2. Inserir nota 1. 
+3. Inserir nota 2. 
+4. Calcular a média sendo: (nota 1 + nota 2)/2. 
+5. Exibir a média.
+Fim
